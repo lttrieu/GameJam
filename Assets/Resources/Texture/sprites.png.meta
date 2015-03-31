@@ -10,6 +10,7 @@ TextureImporter:
     21300010: boom
     21300012: bullet
     21300014: bullet_enemy
+    21300016: gun
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -128,6 +129,16 @@ TextureImporter:
         y: 9
         width: 17
         height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gun
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 98
+        height: 72
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
